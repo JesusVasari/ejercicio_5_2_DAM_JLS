@@ -46,6 +46,15 @@ class Bazooka(nombre: String, municion: Int, restar: Int, tipoMunicion: String, 
         return municion
     }
 }
+interface casa {
+
+}
+interface bocadillo{
+
+}
+interface batmóvil{
+
+}
 
 fun main() {
     // funciona la instancia de los tres objetos
